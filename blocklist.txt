@@ -1827,7 +1827,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 dtstmio.com
 0.0.0.0 dttq.net
 0.0.0.0 dtxngr.com
-0.0.0.0 duckduckgo.com
 0.0.0.0 dugout.com
 0.0.0.0 dugwood.com
 0.0.0.0 duhnet.tv
