@@ -6150,7 +6150,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 twincdn.com
 0.0.0.0 twinrdsrv.com
 0.0.0.0 twinred.com
-0.0.0.0 twitchcdn.net
 0.0.0.0 twitcount.com
 0.0.0.0 twitter.com
 0.0.0.0 twokidjay.com
