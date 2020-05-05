@@ -2472,10 +2472,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 giraff.io
 0.0.0.0 girlstofap.ga
 0.0.0.0 githack.com
-0.0.0.0 github.com
-0.0.0.0 github.io
-0.0.0.0 githubassets.com
-0.0.0.0 gitlab.io
 0.0.0.0 gitoku.com
 0.0.0.0 gizmodo.com
 0.0.0.0 gjirafa.com
